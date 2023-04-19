@@ -1,0 +1,28 @@
+[?2004l
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type the source string (q - to quit) :
+CPr101#123
+New destination string is 'CPr101#123'
+Destination string is reset to empty
+Type the source string (q - to quit) :
+ 
+New destination string is ' '
+Destination string is reset to empty
+Type the source string (q - to quit) :
+q
+*** End of Copying Strings Demo ***
+
+[?2004h
+
+[?2004l
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type the source string (q - to quit) :
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+New destination string is '012345678901234567890123456789012345678901234567890123456789012345678901234567'
+Destination string is reset to empty
+Type the source string (q - to quit) :
+New destination string is '9'
+Destination string is reset to empty
+Type the source string (q - to quit) :

@@ -1,0 +1,39 @@
+VERSION 2 OUTPUT
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+Hello
+Type the 2nd string:
+World
+Concatenated string is 'HelloWorld'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating strings Demo ***
+
+*** Start of Comparing strings Demo ***
+Type the 1st string to compare (q - to quit) :
+hello
+Type the 2nd string to compare:
+hello
+'hello' string is equal to 'hello'
+Type the 1st string to compare (q - to quit) :
+apple
+Type the 2nd string to compare:
+banana
+'apple' string is less than 'banana'
+Type the 1st string to compare (q - to quit) :
+elephant
+Type the 2nd string to compare:
+cat
+'elephant' string is greater than 'cat'
+Type the 1st string to compare (q - to quit) :
+heyy
+Type the 2nd string to compare:
+If the user enters a string that is longer than 79 characters, the fgets() function will read only the first 79 characters and discard the rest, resulting in an incorrect comparison.
+'heyy' string is greater than 'If the user enters a string that is longer than 79 characters, the fgets() fun'
+Type the 1st string to compare (q - to quit) :
+Type the 2nd string to compare:
+'tion will read only the first 79 characters and discard the rest, resulting in' string is greater than 'an incorrect comparison.'
+Type the 1st string to compare (q - to quit) :
+q
+*** End of Comparing strings Demo ***

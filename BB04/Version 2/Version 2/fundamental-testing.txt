@@ -1,0 +1,33 @@
+[?2004l
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
+[?2004h
+
+[?2004l
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+#hello12345
+The length of the '#hello12345' is 11 characters
+Type a string (q - to quit):
+
+
+[?2004l
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+#hello12345
+The length of the '#hello12345' is 11 characters
+Type a string (q - to quit):
+
+The length of the '' is 0 characters
+Type a string (q - to quit):
+ 
+The length of the ' ' is 1 characters
+Type a string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+The length of the '012345678901234567890123456789012345678901234567890123456789012345678901234567' is 78 characters
+Type a string (q - to quit):
+The length of the '9' is 1 characters
+Type a string (q - to quit):

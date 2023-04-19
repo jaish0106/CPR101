@@ -1,0 +1,40 @@
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit) :
+-2147483648
+Converted number is -2147483648
+Type an int numeric string (q - to quit) :
+6457
+Converted number is 6457
+Type an int numeric string (q - to quit) :
+2147483647
+Converted number is 2147483647
+Type an int numeric string (q - to quit) :
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit) :
+23 24 25
+Converted number is 23.000000
+Type the double numeric string (q - to quit) :
+2147483647
+Converted number is 2147483647.000000
+Type the double numeric string (q - to quit) :
+-2147483648
+Converted number is -2147483648.000000
+Type the double numeric string (q - to quit) :
+0
+Converted number is 0.000000
+Type the double numeric string (q - to quit) :
+2147483650
+Converted number is 2147483650.000000
+Type the double numeric string (q - to quit) :
+23 24 25
+Converted number is 23.000000
+Type the double numeric string (q - to quit) :
+q
+*** End of Converting Strings to double Demo ***
+
+
+C:\Users\fnmug\Downloads\Project Source Code\Project new code in 2224\Project1\x64\Debug\Project1.exe (process 22568) exited with code 0.
+Press any key to close this window . . .

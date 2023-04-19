@@ -1,0 +1,81 @@
+*** Start of Tokenizing Sentences Demo ***
+Type a few sentences separated by dot (q - to quit):
+This is line 1. This is line 2. This is line 3
+Sentence #1 is 'This is line 1'
+Sentence #2 is ' This is line 2'
+Sentence #3 is ' This is line 3'
+Type a few sentences separated by dot (q - to quit):
+1555.052
+Sentence #1 is '1555'
+Sentence #2 is '052'
+Type a few sentences separated by dot (q - to quit):
+. . . . . .
+Sentence #1 is ' '
+Sentence #2 is ' '
+Sentence #3 is ' '
+Sentence #4 is ' '
+Sentence #5 is ' '
+Type a few sentences separated by dot (q - to quit):
+Lets try if it works with another special char like ? or lets check with ! (what would be result?)
+Sentence #1 is 'Lets try if it works with another special char like ? or lets check with ! (what would be result?)'
+Type a few sentences separated by dot (q - to quit):
+I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur. I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.I am komalpreet kaur.
+Sentence #1 is 'I am komalpreet kaur'
+Sentence #2 is 'I am komalpreet kaur'
+Sentence #3 is 'I am komalpreet kaur'
+Sentence #4 is 'I am komalpreet kaur'
+Sentence #5 is 'I am komalpreet kaur'
+Sentence #6 is 'I am komalpreet kaur'
+Sentence #7 is 'I am komalpreet kaur'
+Sentence #8 is 'I am komalpreet kaur'
+Sentence #9 is 'I am komalpreet kaur'
+Sentence #10 is 'I am komalpreet kaur'
+Sentence #11 is 'I am komalpreet kaur'
+Sentence #12 is 'I am komalpreet kaur'
+Sentence #13 is 'I am komalpreet kaur'
+Sentence #14 is 'I am komalpreet kaur'
+Sentence #15 is 'I am'
+Type a few sentences separated by dot (q - to quit):
+Sentence #1 is 'komalpreet kaur'
+Sentence #2 is 'I am komalpreet kaur'
+Sentence #3 is 'I am komalpreet kaur'
+Sentence #4 is 'I am komalpreet kaur'
+Sentence #5 is 'I am komalpreet kaur'
+Sentence #6 is 'I am komalpreet kaur'
+Sentence #7 is 'I am komalpreet kaur'
+Sentence #8 is 'I am komalpreet kaur'
+Sentence #9 is 'I am komalpreet kaur'
+Sentence #10 is ' I am komalpreet kaur'
+Sentence #11 is 'I am komalpreet kaur'
+Sentence #12 is 'I am komalpreet kaur'
+Sentence #13 is 'I am komalpreet kaur'
+Sentence #14 is 'I am komalpreet kaur'
+Sentence #15 is 'I am kom'
+Type a few sentences separated by dot (q - to quit):
+Sentence #1 is 'lpreet kaur'
+Sentence #2 is 'I am komalpreet kaur'
+Sentence #3 is 'I am komalpreet kaur'
+Sentence #4 is 'I am komalpreet kaur'
+Sentence #5 is 'I am komalpreet kaur'
+Sentence #6 is 'I am komalpreet kaur'
+Sentence #7 is 'I am komalpreet kaur'
+Sentence #8 is 'I am komalpreet kaur'
+Sentence #9 is 'I am komalpreet kaur'
+Sentence #10 is 'I am komalpreet kaur'
+Sentence #11 is 'I am komalpreet kaur'
+Sentence #12 is 'I am komalpreet kaur'
+Sentence #13 is 'I am komalpreet kaur'
+Sentence #14 is 'I am komalpreet kaur'
+Sentence #15 is 'I am komalpre'
+Type a few sentences separated by dot (q - to quit):
+Sentence #1 is 't kaur'
+Sentence #2 is 'I am komalpreet kaur'
+Sentence #3 is 'I am komalpreet kaur'
+Sentence #4 is 'I am komalpreet kaur'
+Type a few sentences separated by dot (q - to quit):
+q
+*** End of Tokenizing Sentences Demo ***
+
+
+C:\Users\komalpreet\Downloads\CPR_PROJECT\x64\Debug\CPR_PROJECT.exe (process 11564) exited with code 0.
+Press any key to close this window . . .

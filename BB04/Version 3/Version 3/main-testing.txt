@@ -1,0 +1,115 @@
+1 - Fundamentals
+2 - Manipulations
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+1
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type the source string (q - to quit) :
+CPr101#123
+New destination string is 'CPr101#123'
+Destination string is reset to empty
+Type the source string (q - to quit) :
+
+New destination string is ' '
+Destination string is reset to empty
+Type the source string (q - to quit) :
+Entering 'heyy' in 1 string and more than 80 characters in other string, that is, If the user enters a string that is longer than 79 characters, the fgets() function will read only the first 79 characters and discard the rest, resulting in an incorrect comparison.
+New destination string is 'Entering 'heyy' in 1 string and more than 80 characters in other string, that '
+Destination string is reset to empty
+Type the source string (q - to quit) :
+New destination string is 's, If the user enters a string that is longer than 79 characters, the fgets() '
+Destination string is reset to empty
+Type the source string (q - to quit) :
+New destination string is 'unction will read only the first 79 characters and discard the rest, resulting'
+Destination string is reset to empty
+Type the source string (q - to quit) :
+New destination string is 'in an incorrect comparison.'
+Destination string is reset to empty
+Type the source string (q - to quit) :
+q
+*** End of Copying Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulations
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+2
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating strings Demo ***
+
+*** Start of Comparing strings Demo ***
+Type the 1st string to compare (q - to quit) :
+q
+*** End of Comparing strings Demo ***
+
+1 - Fundamentals
+2 - Manipulations
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit) :
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit) :
+q
+*** End of Converting Strings to double Demo ***
+
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit) :
+1234abc
+Converted number is 1234
+Type the long numeric string (q - to quit) :
+23 25 27
+Converted number is 23
+Type the long numeric string (q - to quit) :
+21421421789
+Converted number is 2147483647
+Type the long numeric string (q - to quit) :
+q
+*** End of Converting Strings to long Demo ***
+
+1 - Fundamentals
+2 - Manipulations
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Words Demo ***
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma (q to quit):
+This is line 1. This is line 2. This is line 3
+Phrase #1 is 'This is line 1. This is line 2. This is line 3'
+Type a few phrases separated by comma (q to quit):
+1555.052
+Phrase #1 is '1555.052'
+Type a few phrases separated by comma (q to quit):
+. . . . . .
+Phrase #1 is '. . . . . .'
+Type a few phrases separated by comma (q to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+1 - Fundamentals
+2 - Manipulations
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0
+
+
+C:\Users\fnmug\Downloads\Project Source Code\Project new code in 2224\Project1\x64\Debug\Project1.exe (process 22036) exited with code 0.
+Press any key to close this window . . .

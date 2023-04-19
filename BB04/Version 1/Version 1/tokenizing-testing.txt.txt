@@ -1,0 +1,30 @@
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma (q to quit):
+lets try this, seperating, with commas, result is here
+Phrase #1 is 'lets try this'
+Phrase #2 is ' seperating'
+Phrase #3 is ' with commas'
+Phrase #4 is ' result is here'
+Type a few phrases separated by comma (q to quit):
+Lets try using something:: different then comma
+Phrase #1 is 'Lets try using something:: different then comma'
+Type a few phrases separated by comma (q to quit):
+This is different sentence. Lets see what happens
+Phrase #1 is 'This is different sentence. Lets see what happens'
+Type a few phrases separated by comma (q to quit):
+, , , , , ,
+Phrase #1 is ' '
+Phrase #2 is ' '
+Phrase #3 is ' '
+Phrase #4 is ' '
+Phrase #5 is ' '
+Type a few phrases separated by comma (q to quit):
+This sentence ends this the comma,
+Phrase #1 is 'This sentence ends this the comma'
+Type a few phrases separated by comma (q to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+
+C:\Users\komalpreet\Downloads\CPR_PROJECT\x64\Debug\CPR_PROJECT.exe (process 9564) exited with code 0.
+Press any key to close this window . . .

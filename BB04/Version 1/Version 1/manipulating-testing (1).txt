@@ -1,0 +1,22 @@
+VERSION 1 OUTPUT
+
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+Hello
+Type the 2nd string:
+Ridhi here
+Concatenated string is 'HelloRidhi here'
+Type the 1st string (q - to quit):
+12345
+Type the 2nd string:
+67890
+Concatenated string is '1234567890'
+Type the 1st string (q - to quit):
+'HI'
+Type the 2nd string:
+'HELLO"
+Concatenated string is ''HI''HELLO"'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating strings Demo ***

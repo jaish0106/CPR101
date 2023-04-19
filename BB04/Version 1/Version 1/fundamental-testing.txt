@@ -1,0 +1,24 @@
+[?2004l
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+[?2004h
+
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+hello#123
+Type the character psotion within the string:
+3
+The character found at 3 position is 'l'
+Type not empty string (q - to quit):
+01234567890123456789012345678901234567890123456789012345678901234567890123456789
+Type the character psotion within the string:
+The character found at 9 position is '9'
+Type not empty string (q - to quit):
+
+Type the character psotion within the string:
+3
+Too big... Position reduced to max. available
+The character found at -1 position is '

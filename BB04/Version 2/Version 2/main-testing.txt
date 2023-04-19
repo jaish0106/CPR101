@@ -1,0 +1,124 @@
+1 - Fundamentals
+2 - Manipulations
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+1
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+#hello12345
+The length of the '#hello12345' is 11 characters
+Type a string (q - to quit):
+Entering 'heyy' in 1 string and more than 80 characters in other string, that is, If the user enters a string that is longer than 79 characters, the fgets() function will read only the first 79 characters and discard the rest, resulting in an incorrect comparison.
+The length of the 'Entering 'heyy' in 1 string and more than 80 characters in other string, that ' is 78 characters
+Type a string (q - to quit):
+The length of the 's, If the user enters a string that is longer than 79 characters, the fgets() ' is 78 characters
+Type a string (q - to quit):
+The length of the 'unction will read only the first 79 characters and discard the rest, resulting' is 78 characters
+Type a string (q - to quit):
+The length of the 'in an incorrect comparison.' is 27 characters
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulations
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+2
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating strings Demo ***
+
+*** Start of Comparing strings Demo ***
+Type the 1st string to compare (q - to quit) :
+hello
+Type the 2nd string to compare:
+hello
+'hello' string is equal to 'hello'
+Type the 1st string to compare (q - to quit) :
+apple
+Type the 2nd string to compare:
+banana
+'apple' string is less than 'banana'
+Type the 1st string to compare (q - to quit) :
+heyy
+Type the 2nd string to compare:
+Entering 'heyy' in 1 string and more than 80 characters in other string, that is, If the user enters a string that is longer than 79 characters, the fgets() function will read only the first 79 characters and discard the rest, resulting in an incorrect comparison.
+'heyy' string is greater than 'Entering 'heyy' in 1 string and more than 80 characters in other string, that '
+Type the 1st string to compare (q - to quit) :
+Type the 2nd string to compare:
+'s, If the user enters a string that is longer than 79 characters, the fgets() ' string is less than 'unction will read only the first 79 characters and discard the rest, resulting'
+Type the 1st string to compare (q - to quit) :
+Type the 2nd string to compare:
+hey
+'in an incorrect comparison.' string is greater than 'hey'
+Type the 1st string to compare (q - to quit) :
+q
+*** End of Comparing strings Demo ***
+
+1 - Fundamentals
+2 - Manipulations
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit) :
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit) :
+23 25 27
+Converted number is 23.000000
+Type the double numeric string (q - to quit) :
+32678
+Converted number is 32678.000000
+Type the double numeric string (q - to quit) :
+2147483657
+Converted number is 2147483657.000000
+Type the double numeric string (q - to quit) :
+q
+*** End of Converting Strings to double Demo ***
+
+1 - Fundamentals
+2 - Manipulations
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Words Demo ***
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma (q to quit):
+lets try this, seperating, with commas, result is here
+Phrase #1 is 'lets try this'
+Phrase #2 is ' seperating'
+Phrase #3 is ' with commas'
+Phrase #4 is ' result is here'
+Type a few phrases separated by comma (q to quit):
+Lets try using something:: different then comma
+Phrase #1 is 'Lets try using something:: different then comma'
+Type a few phrases separated by comma (q to quit):
+This is different sentence. Lets see what happens
+Phrase #1 is 'This is different sentence. Lets see what happens'
+Type a few phrases separated by comma (q to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+1 - Fundamentals
+2 - Manipulations
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+
+
+C:\Users\fnmug\OneDrive\Desktop\CPR Final project\CPR Final project\version 1\Project1\x64\Debug\Project1.exe (process 24620) exited with code 0.
+Press any key to close this window . . .

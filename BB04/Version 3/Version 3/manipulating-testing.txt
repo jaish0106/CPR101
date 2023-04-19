@@ -1,0 +1,61 @@
+VERSION 3 OUTPUT
+
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+Hello
+Type the 2nd string:
+World
+Concatenated string is 'HelloWorld'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating strings Demo ***
+
+*** Start of Comparing strings Demo ***
+Type the 1st string to compare (q - to quit) :
+hello
+Type the 2nd string to compare:
+hello
+'hello' string is equal to 'hello'
+Type the 1st string to compare (q - to quit) :
+q
+*** End of Comparing strings Demo ***
+
+*** Start of Searching strings Demo ***
+Type the string (q - to quit):
+Hello world!
+Type the substring:
+apple
+Not found
+Type the string (q - to quit):
+Hello world!
+Type the substring:
+world
+'world' found at 6 position
+Type the string (q - to quit):
+hello
+Type the substring:
+hello
+'hello' found at 0 position
+Type the string (q - to quit):
+
+Type the substring:
+
+'' found at 0 position
+Type the string (q - to quit):
+hii hii
+Type the substring:
+
+' ' found at 3 position
+Type the string (q - to quit):
+world
+Type the substring:
+hello world
+Not found
+Type the string (q - to quit):
+12345678901234567890123456789012345678901234567890123456789012345678901234567890world
+Type the substring:
+Not found
+Type the string (q - to quit):
+q
+*** End of Searching Strings Demo ***

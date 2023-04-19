@@ -1,0 +1,33 @@
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit) :
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit) :
+q
+*** End of Converting Strings to double Demo ***
+
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit) :
+1234ABC
+Converted number is 1234
+Type the long numeric string (q - to quit) :
+-2147483648
+Converted number is -2147483648
+Type the long numeric string (q - to quit) :
+0
+Converted number is 0
+Type the long numeric string (q - to quit) :
+23 24 25
+Converted number is 23
+Type the long numeric string (q - to quit) :
+2147483650
+Converted number is 2147483647
+Type the long numeric string (q - to quit) :
+q
+*** End of Converting Strings to long Demo ***
+
+
+C:\Users\fnmug\Downloads\Project Source Code\Project new code in 2224\Project1\x64\Debug\Project1.exe (process 22036) exited with code 0.
+Press any key to close this window . . .
